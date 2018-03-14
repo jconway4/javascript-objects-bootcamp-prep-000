@@ -1,6 +1,5 @@
 var playlist = {
-  artistName: '',
-  songTitle: ''
+  artistName: ''
 };
 
 var updatePlaylist = function(playlist, artistName, songTitle) {
